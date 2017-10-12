@@ -2,3 +2,5 @@
 docs/_site/
 
 src/\.ipynb_checkpoints/
+
+docs/_posts/_site/
